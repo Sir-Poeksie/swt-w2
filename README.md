@@ -87,3 +87,7 @@ By the end of this assignment, you will:
 Submit your assignment on GitHub by **[3rd June]**. Share your GitHub repo link via the LMS.
 
 Happy testing! 💻🧠
+
+*How to edit a [markdownfile](https://www.markdownguide.org/basic-syntax/#headings)*
+
+###  NOTE: You should not fork the repository
