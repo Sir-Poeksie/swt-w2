@@ -1,9 +1,9 @@
 # 🧪 Functional Testing Report
 
 ## 👤 Student Information
-- **Full Name**: [Your Full Name]  
-- **Cohort**: [e.g., May 2025]  
-- **Date**: [Submission Date]  
+- **Full Name**: Mpumelelo Theophilas Nxazonke
+- **Cohort**: February 2025  
+- **Date**: 01 June 2025  
 
 ---
 
@@ -12,17 +12,19 @@
 | Test Type        | Description                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | **Unit Test**     | Tested the `saveNote()` function for correct behavior and input validation. |
+
 | **Integration Test** | Verified that saving a note updates the UI as expected.                     |
 | **System Test**   | Simulated full note lifecycle: create → edit → delete.                      |
 
 ---
 
 ## 🐛 Bugs / Issues Identified
-
+-
 | Type             | Description                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | Unit             | [e.g., Notes save even when title or content is empty]                      |
-| Integration      | [e.g., Note text does not appear after clicking "Save Note"]                |
+| Integration      | - Note Input Field doesn't clear after clicking "Save Note"
+|                | | - 
 | System           | [e.g., Edit function deletes note without repopulating input fields]        |
 | UI / UX          | [e.g., No feedback or confirmation after saving or deleting a note]         |
 | Accessibility    | [e.g., Inputs have no labels for screen readers]                            |
